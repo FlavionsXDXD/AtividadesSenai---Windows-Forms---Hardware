@@ -1,0 +1,18 @@
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\Orçamentodepc\Orçamentodepc\bin\Debug\Orçamentodepc.exe.config
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\Orçamentodepc\Orçamentodepc\bin\Debug\Orçamentodepc.exe
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\Orçamentodepc\Orçamentodepc\bin\Debug\Orçamentodepc.pdb
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\Orçamentodepc\Orçamentodepc\obj\Debug\Orçamentodepc.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\Orçamentodepc\Orçamentodepc\obj\Debug\Orçamentodepc.csproj.GenerateResource.Cache
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\Orçamentodepc\Orçamentodepc\obj\Debug\Orçamentodepc.exe
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\Orçamentodepc\Orçamentodepc\obj\Debug\Orçamentodepc.pdb
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\Orçamentodepc\Orçamentodepc\obj\Debug\Orçamentodepc.Mostrar.resources
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\Orçamentodepc\Orçamentodepc\obj\Debug\SistemaOrcamento.MainForm.resources
+C:\Users\Flavio\Desktop\Orçamentodepc\Orçamentodepc\bin\Debug\Orçamentodepc.exe.config
+C:\Users\Flavio\Desktop\Orçamentodepc\Orçamentodepc\bin\Debug\Orçamentodepc.exe
+C:\Users\Flavio\Desktop\Orçamentodepc\Orçamentodepc\bin\Debug\Orçamentodepc.pdb
+C:\Users\Flavio\Desktop\Orçamentodepc\Orçamentodepc\obj\Debug\Orçamentodepc.csprojResolveAssemblyReference.cache
+C:\Users\Flavio\Desktop\Orçamentodepc\Orçamentodepc\obj\Debug\SistemaOrcamento.MainForm.resources
+C:\Users\Flavio\Desktop\Orçamentodepc\Orçamentodepc\obj\Debug\Orçamentodepc.Mostrar.resources
+C:\Users\Flavio\Desktop\Orçamentodepc\Orçamentodepc\obj\Debug\Orçamentodepc.csproj.GenerateResource.Cache
+C:\Users\Flavio\Desktop\Orçamentodepc\Orçamentodepc\obj\Debug\Orçamentodepc.exe
+C:\Users\Flavio\Desktop\Orçamentodepc\Orçamentodepc\obj\Debug\Orçamentodepc.pdb
