@@ -1,0 +1,24 @@
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\vendas\vendas\bin\Debug\vendas.exe.config
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\vendas\vendas\bin\Debug\vendas.exe
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\vendas\vendas\bin\Debug\vendas.pdb
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\vendas\vendas\obj\Debug\vendas.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\vendas\vendas\obj\Debug\vendas.MainForm.resources
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\vendas\vendas\obj\Debug\vendas.csproj.GenerateResource.Cache
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\vendas\vendas\obj\Debug\vendas.exe
+C:\Users\Aluno_IOT\Documents\SharpDevelop Projects\vendas\vendas\obj\Debug\vendas.pdb
+C:\Users\Flavio\Desktop\vendas\vendas\bin\Debug\vendas.exe.config
+C:\Users\Flavio\Desktop\vendas\vendas\bin\Debug\vendas.exe
+C:\Users\Flavio\Desktop\vendas\vendas\bin\Debug\vendas.pdb
+C:\Users\Flavio\Desktop\vendas\vendas\obj\Debug\vendas.csprojResolveAssemblyReference.cache
+C:\Users\Flavio\Desktop\vendas\vendas\obj\Debug\vendas.MainForm.resources
+C:\Users\Flavio\Desktop\vendas\vendas\obj\Debug\vendas.csproj.GenerateResource.Cache
+C:\Users\Flavio\Desktop\vendas\vendas\obj\Debug\vendas.exe
+C:\Users\Flavio\Desktop\vendas\vendas\obj\Debug\vendas.pdb
+C:\Users\Flavio\Minhas-atividades\Atividade - Windows Forms - Hardware\vendas\vendas\bin\Debug\vendas.exe.config
+C:\Users\Flavio\Minhas-atividades\Atividade - Windows Forms - Hardware\vendas\vendas\bin\Debug\vendas.exe
+C:\Users\Flavio\Minhas-atividades\Atividade - Windows Forms - Hardware\vendas\vendas\bin\Debug\vendas.pdb
+C:\Users\Flavio\Minhas-atividades\Atividade - Windows Forms - Hardware\vendas\vendas\obj\Debug\vendas.csprojResolveAssemblyReference.cache
+C:\Users\Flavio\Minhas-atividades\Atividade - Windows Forms - Hardware\vendas\vendas\obj\Debug\vendas.MainForm.resources
+C:\Users\Flavio\Minhas-atividades\Atividade - Windows Forms - Hardware\vendas\vendas\obj\Debug\vendas.csproj.GenerateResource.Cache
+C:\Users\Flavio\Minhas-atividades\Atividade - Windows Forms - Hardware\vendas\vendas\obj\Debug\vendas.exe
+C:\Users\Flavio\Minhas-atividades\Atividade - Windows Forms - Hardware\vendas\vendas\obj\Debug\vendas.pdb
