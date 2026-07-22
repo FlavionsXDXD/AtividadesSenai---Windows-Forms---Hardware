@@ -1,0 +1,8 @@
+C:\Users\Flavio\Documents\SharpDevelop Projects\Garagem\Garagem\obj\Debug\Garagem.csprojResolveAssemblyReference.cache
+C:\Users\Flavio\Documents\SharpDevelop Projects\Garagem\Garagem\obj\Debug\Garagem.MainForm.resources
+C:\Users\Flavio\Documents\SharpDevelop Projects\Garagem\Garagem\obj\Debug\Garagem.csproj.GenerateResource.Cache
+C:\Users\Flavio\Documents\SharpDevelop Projects\Garagem\Garagem\bin\Debug\Garagem.exe.config
+C:\Users\Flavio\Documents\SharpDevelop Projects\Garagem\Garagem\bin\Debug\Garagem.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\Garagem\Garagem\bin\Debug\Garagem.pdb
+C:\Users\Flavio\Documents\SharpDevelop Projects\Garagem\Garagem\obj\Debug\Garagem.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\Garagem\Garagem\obj\Debug\Garagem.pdb

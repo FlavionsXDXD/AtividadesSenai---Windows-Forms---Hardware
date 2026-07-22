@@ -1,0 +1,8 @@
+C:\Users\Flavio\Documents\SharpDevelop Projects\boletim\boletim\bin\Debug\boletim.exe.config
+C:\Users\Flavio\Documents\SharpDevelop Projects\boletim\boletim\bin\Debug\boletim.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\boletim\boletim\bin\Debug\boletim.pdb
+C:\Users\Flavio\Documents\SharpDevelop Projects\boletim\boletim\obj\Debug\boletim.csprojResolveAssemblyReference.cache
+C:\Users\Flavio\Documents\SharpDevelop Projects\boletim\boletim\obj\Debug\boletim.MainForm.resources
+C:\Users\Flavio\Documents\SharpDevelop Projects\boletim\boletim\obj\Debug\boletim.csproj.GenerateResource.Cache
+C:\Users\Flavio\Documents\SharpDevelop Projects\boletim\boletim\obj\Debug\boletim.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\boletim\boletim\obj\Debug\boletim.pdb
