@@ -1,0 +1,2 @@
+1;carlos;04441;gmail.com;98311;santos;True
+2;tommy;1232;gmail.com;319;alemanha;True

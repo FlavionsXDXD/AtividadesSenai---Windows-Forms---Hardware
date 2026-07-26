@@ -1,0 +1,8 @@
+C:\Users\Flavio\Documents\SharpDevelop Projects\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\Flavio\Documents\SharpDevelop Projects\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Flavio\Documents\SharpDevelop Projects\Cadastro\Cadastro\obj\Debug\Cadastro.csprojResolveAssemblyReference.cache
+C:\Users\Flavio\Documents\SharpDevelop Projects\Cadastro\Cadastro\obj\Debug\Cadastro.MainForm.resources
+C:\Users\Flavio\Documents\SharpDevelop Projects\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.Cache
+C:\Users\Flavio\Documents\SharpDevelop Projects\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
