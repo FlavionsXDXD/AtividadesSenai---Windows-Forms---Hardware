@@ -1,0 +1,11 @@
+C:\Users\Flavio\Documents\SharpDevelop Projects\ControleEstoque\ControleEstoque\bin\Debug\ControleEstoque.exe.config
+C:\Users\Flavio\Documents\SharpDevelop Projects\ControleEstoque\ControleEstoque\bin\Debug\ControleEstoque.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\ControleEstoque\ControleEstoque\bin\Debug\ControleEstoque.pdb
+C:\Users\Flavio\Documents\SharpDevelop Projects\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.csprojResolveAssemblyReference.cache
+C:\Users\Flavio\Documents\SharpDevelop Projects\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.pdb
+C:\Users\Flavio\Documents\SharpDevelop Projects\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.csproj.GenerateResource.Cache
+C:\Users\Flavio\Documents\SharpDevelop Projects\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.MainForm.resources
+C:\Users\Flavio\Documents\SharpDevelop Projects\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.Forms.FrmCategorias.resources
+C:\Users\Flavio\Documents\SharpDevelop Projects\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.Forms.FrmProdutos.resources
+C:\Users\Flavio\Documents\SharpDevelop Projects\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.Forms.FrmMovimentacoes.resources
